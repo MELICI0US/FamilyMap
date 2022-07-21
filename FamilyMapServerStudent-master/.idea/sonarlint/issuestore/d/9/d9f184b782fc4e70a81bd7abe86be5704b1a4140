@@ -1,0 +1,23 @@
+
+h	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(Çõ“õúÿÿÿÿ8˜ÄùÚÌ/
+š
+java:S1130‹"wRemove the declaration of thrown exception 'Exceptions.DataAccessException', as it cannot be thrown from method's body.(ÄĞù§øÿÿÿÿ8˜ÄùÚÌ/
+š
+java:S1130–"wRemove the declaration of thrown exception 'Exceptions.DataAccessException', as it cannot be thrown from method's body.(¥Œ…ºøÿÿÿÿ8˜ÄùÚÌ/
+W
+java:S11416"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜ÄùÚÌ/
+A
+java:S2119£"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8˜ÄùÚÌ/
+‚
+java:S1488õ"_Immediately return this expression instead of assigning it to the temporary variable "maxYear".(±…ÒÇşÿÿÿÿ8˜ÄùÚÌ/
+R
+java:S1066…"/Merge this if statement with the enclosing one.(½ç½±üÿÿÿÿ8îàÛÌ/
+`
+java:S1854ƒ"=Remove this useless assignment to local variable "birthYear".(‚ºÓ‚üÿÿÿÿ8˜ÄùÚÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¶‘–
+A
+java:S2119¾"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8˜ÄùÚÌ/
+j
+java:S2259Ş"GA "NullPointerException" could be thrown; "lastEvent" is nullable here.(×‰ ïüÿÿÿÿ8˜ÄùÚÌ/
+A
+java:S2119à"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8˜ÄùÚÌ/

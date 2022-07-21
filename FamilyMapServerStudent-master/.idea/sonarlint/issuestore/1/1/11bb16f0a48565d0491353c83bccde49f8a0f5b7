@@ -1,0 +1,10 @@
+
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ûî€åüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ˆ„ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ·¬’şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥õÆ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ

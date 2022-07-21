@@ -1,0 +1,12 @@
+
+k
+java:S1450"URemove the "server" field and declare it as a local variable in the relevant methods.(¦ºËÁ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ù•ù
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹8ª‘–Ì/
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¥õ¯øÿÿÿÿÿ
++
+java:S1700"Rename field "server"(¦ºËÁ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¼½ùB
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(øË»ê

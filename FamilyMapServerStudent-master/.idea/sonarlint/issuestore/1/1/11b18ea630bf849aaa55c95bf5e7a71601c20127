@@ -1,0 +1,16 @@
+
+Š
+java:S1319"qThe type of the "events" object should be an interface such as "List" rather than the implementation "ArrayList".(æØð«þÿÿÿÿ
+‰
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¨Û¤Ñÿÿÿÿÿ
+‰
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ëª“†ýÿÿÿÿ
+‰
+java:S1319"pThe type of the "users" object should be an interface such as "List" rather than the implementation "ArrayList".(æØð«þÿÿÿÿ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÀ’à
+F
+java:S1128"3Remove this unused import 'Responses.LoadResponse'.(Ü„ÄI
+‹
+java:S1319"rThe type of the "persons" object should be an interface such as "List" rather than the implementation "ArrayList".(æØð«þÿÿÿÿ
+„
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(çøœï

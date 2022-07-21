@@ -1,0 +1,9 @@
+
+W	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(•ëÀÁ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¦Êø
+
+java:S1319A"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šıñÅ8²ŞËÌÒ/
+?
+java:S1128"*Remove this unused import 'Models.Person'.(ò“Ÿq
+‡
+java:S1319&"qThe type of the "events" object should be an interface such as "List" rather than the implementation "ArrayList".(Æì¯€

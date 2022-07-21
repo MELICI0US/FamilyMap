@@ -1,0 +1,12 @@
+
+[
+java:S1155?">Use isEmpty() to check whether the collection is empty or not.(ËœÉù8Óòü×Ì/
+W
+java:S1128"5Remove this unused import 'Responses.PersonResponse'.(â·¡Ûÿÿÿÿÿ8ãï†ÚÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¶‘–
+f
+java:S2583&"DChange this condition so that it does not always evaluate to "false"(ø–©¤üÿÿÿÿ8Ï£ñßÌ/
+F
+java:S1128	"*Remove this unused import 'Models.Person'.(ò“Ÿq8±á¿ÓÌ/
+G
+java:S1128"+Remove this unused import 'DAOs.PersonDao'.(‚çƒ#8ö¥¿ÓÌ/

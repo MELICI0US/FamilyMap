@@ -1,0 +1,8 @@
+
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œÀÙùÿÿÿÿ8èÎş­Ì/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜İ¥ñ
+m
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(Ù¹8Åò¶–Ì/
+Œ
+java:S1319"oThe type of the "data" object should be an interface such as "List" rather than the implementation "ArrayList".(Ù¹8î…ş­Ì/

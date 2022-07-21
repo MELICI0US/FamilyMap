@@ -1,0 +1,37 @@
+CREATE TABLE users (
+     username TEXT NOT NULL UNIQUE,
+     password TEXT NOT NULL,
+     email TEXT NOT NULL,
+     firstName TEXT NOT NULL,
+     lastName TEXT NOT NULL,
+     gender TEXT NOT NULL,
+     personID TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE persons (
+     personID TEXT NOT NULL UNIQUE,
+     username TEXT NOT NULL,
+     firstName TEXT NOT NULL,
+     lastName TEXT NOT NULL,
+     gender TEXT NOT NULL,
+     fatherID TEXT,
+     motherID TEXT,
+     spouseID TEXT
+);
+
+CREATE TABLE events (
+    eventID TEXT NOT NULL UNIQUE,
+    username TEXT NOT NULL,
+    personID TEXT NOT NULL,
+    latitude FLOAT NOT NULL,
+    longitude FLOAT NOT NULL,
+    country TEXT NOT NULL,
+    city TEXT NOT NULL,
+    eventType TEXT NOT NULL,
+    year INTEGER NOT NULL
+);
+
+CREATE TABLE authTokens (
+    authtoken TEXT NOT NULL UNIQUE,
+    username TEXT NOT NULL
+);

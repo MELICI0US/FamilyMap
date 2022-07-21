@@ -1,0 +1,10 @@
+
+W
+java:S1191	"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ8 Š«ÓÌ/
+W
+java:S1128"5Remove this unused import 'Responses.PersonResponse'.(â·¡Ûÿÿÿÿÿ8 Š«ÓÌ/
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Óº£‰ýÿÿÿÿ8 Š«ÓÌ/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(›ûè´8 Š«ÓÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ

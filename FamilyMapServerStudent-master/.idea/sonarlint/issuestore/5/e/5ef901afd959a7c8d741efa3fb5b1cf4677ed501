@@ -1,0 +1,10 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¼èÿ
+Y	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ùÉéŞûÿÿÿÿ
+T
+java:S2259"AA "NullPointerException" could be thrown; "obj" is nullable here.(¼©Í.
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ï‡ìŞÿÿÿÿÿ
+d
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(‹íûüÿÿÿÿ

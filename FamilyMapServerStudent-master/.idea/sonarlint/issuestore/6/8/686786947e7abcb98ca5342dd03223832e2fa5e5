@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¦Êø
+V	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Ï½¦¶
+ˆ
+java:S1319""rThe type of the "persons" object should be an interface such as "List" rather than the implementation "ArrayList".(÷éÒ—
+
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„¬ƒÜ8©ƒËÌÒ/

@@ -1,0 +1,17 @@
+
+U
+java:S1128"3Remove this unused import 'Responses.FillResponse'.(Âü¤Ûúÿÿÿÿ8ğ€¯ÑÌ/
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Óº£‰ıÿÿÿÿ8Éà«ÑÌ/
+N
+java:S1128"1Remove this unused import 'Requests.FillRequest'.(Úæì©8Ğ¶®ÑÌ/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÕºûŒ8üÜËÑÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ
+\
+java:S1128"?Remove this unused import 'com.sun.net.httpserver.HttpHandler'.(Ãœ²«8ĞÑÌÑÌ/
+P
+java:S1128".Remove this unused import 'DAOs.AuthTokenDao'.(çÓñ¨øÿÿÿÿ8—¡‘ÒÌ/
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ8Éà«ÑÌ/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(›ûè´8¨¬ÒÌ/

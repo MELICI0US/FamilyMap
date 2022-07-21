@@ -1,0 +1,8 @@
+
+Y
+java:S1854R"<Remove this useless assignment to local variable "username".(Ýö›ß8Æ„½ÒÌ/
+F
+java:S1128"*Remove this unused import 'DAOs.Database'.(±ú‹>8²¬âÑÌ/
+`
+java:S1155=">Use isEmpty() to check whether the collection is empty or not.(»€Šèþÿÿÿÿ8Œú¦ØÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¶‘–

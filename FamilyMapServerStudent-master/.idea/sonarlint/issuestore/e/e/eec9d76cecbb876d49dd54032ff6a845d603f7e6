@@ -1,0 +1,22 @@
+
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "motherID" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "fatherID" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+i
+java:S1192;"GDefine a constant instead of duplicating this literal "gender" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "spouseID" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "personID" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë³ü´
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "lastName" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "username" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+Œ
+java:S1319„"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İÒßşÿÿÿÿ
+l
+java:S1192;"JDefine a constant instead of duplicating this literal "firstName" 3 times.(é…‹ùÿÿÿÿ8¬—‰ÓÌ/
+‹
+java:S1319b"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯·ŞĞøÿÿÿÿ

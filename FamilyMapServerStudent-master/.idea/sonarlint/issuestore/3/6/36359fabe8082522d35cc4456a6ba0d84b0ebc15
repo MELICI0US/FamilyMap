@@ -1,0 +1,23 @@
+
+’
+java:S1319\"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ç¿›Ûıÿÿÿÿ8‚’Ì/
+‡
+java:S1319µ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷íş°
+f
+java:S1192?"IDefine a constant instead of duplicating this literal "username" 4 times.(ßÔğÃ8¥Úú‘Ì/
+e
+java:S1192?"HDefine a constant instead of duplicating this literal "eventID" 4 times.(ßÔğÃ8¥Úú‘Ì/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë³ü´
+f
+java:S1192A"JDefine a constant instead of duplicating this literal "eventType" 4 times.(Ş¹º8¥Úú‘Ì/
+k
+java:S1192@"IDefine a constant instead of duplicating this literal "personID" 4 times.(ÑË’ëûÿÿÿÿ8¥Úú‘Ì/
+V	java:S125-"<This block of commented-out lines of code should be removed.(½ğ’ôùÿÿÿÿ
+k
+java:S1192@"IDefine a constant instead of duplicating this literal "latitude" 4 times.(ÑË’ëûÿÿÿÿ8¥Úú‘Ì/
+d
+java:S1192A"HDefine a constant instead of duplicating this literal "country" 4 times.(Ş¹º8¥Úú‘Ì/
+l
+java:S1192@"JDefine a constant instead of duplicating this literal "longitude" 4 times.(ÑË’ëûÿÿÿÿ8¥Úú‘Ì/
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§¥ç¥øÿÿÿÿ

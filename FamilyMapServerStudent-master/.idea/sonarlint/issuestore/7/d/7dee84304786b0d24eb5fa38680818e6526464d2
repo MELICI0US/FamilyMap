@@ -1,0 +1,10 @@
+
+Z
+java:S18549"=Remove this useless assignment to local variable "personDao".(Œ‰©›8€¸ŸÖÌ/
+™
+java:S1130)"wRemove the declaration of thrown exception 'Exceptions.DataAccessException', as it cannot be thrown from method's body.(™şæşÿÿÿÿ8ï·ÙÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¶‘–
+T
+java:S1135/"2Complete the task associated to this TODO comment.(¶¶æ¸øÿÿÿÿ8€¸ŸÖÌ/
+K
+java:S14819".Remove this unused "personDao" local variable.(Œ‰©›8€¸ŸÖÌ/

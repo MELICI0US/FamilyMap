@@ -1,0 +1,20 @@
+
+Y
+java:S1128"7Remove this unused import 'Responses.RegisterResponse'.(ºåïöúÿÿÿÿ8Ø¯ÔÌ/
+]
+java:S1128";Remove this unused import 'com.sun.net.httpserver.Headers'.(¬„úïùÿÿÿÿ8õİıÓÌ/
+\
+java:S1128"?Remove this unused import 'com.sun.net.httpserver.HttpHandler'.(Ãœ²«8¢ŒùÓÌ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ8¢ŒùÓÌ/
+W
+java:S1128"5Remove this unused import 'Requests.RegisterRequest'.(³€‘¶úÿÿÿÿ8£ß˜ÔÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ûî€åüÿÿÿÿ8¢ŒùÓÌ/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‚ˆ„ùÿÿÿÿ8¢ŒùÓÌ/
+R
+java:S1128"5Remove this unused import 'Services.RegisterService'.(º ê¥8™­ûÓÌ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÿ·¬’şÿÿÿÿ8¢ŒùÓÌ/
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ8¢ŒùÓÌ/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¥õÆ8¢ŒùÓÌ/

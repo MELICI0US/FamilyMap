@@ -1,0 +1,6 @@
+
+b	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(•ƒ‘øÿÿÿÿ8›ºíĞ/
+b	java:S107("AConstructor has 8 parameters, which is greater than 7 authorized.(æüœÒùÿÿÿÿ8›ºíĞ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ8›ºíĞ/
+r
+java:S1206X"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8›ºíĞ/

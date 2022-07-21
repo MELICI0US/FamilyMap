@@ -1,0 +1,34 @@
+
+`
+java:S1128">Remove this unused import 'com.google.gson.stream.JsonReader'.(ËÓÌ—üÿÿÿÿ8’ˆî­Ì/
+X
+java:S2696 "6Make the enclosing method "static" or remove this set.(«½Í­ùÿÿÿÿ8Ğï‡®Ì/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
+Q
+java:S1444"/Make this "public static locations" field final(Ì½âúÿÿÿÿ8Ú¾‡®Ì/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8 Ôí­Ì/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ŠÂÁ©úÿÿÿÿ8‰¡…®Ì/
+t
+java:S1104"RMake snames a static final constant or non-public and provide accessors if needed.(ğ®´Ÿøÿÿÿÿ8ˆ‚‡®Ì/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8 Ôí­Ì/
+R
+java:S2696%"6Make the enclosing method "static" or remove this set.(äÚş`8ê„ˆ®Ì/
+w
+java:S1104"UMake locations a static final constant or non-public and provide accessors if needed.(Ì½âúÿÿÿÿ8Ú¾‡®Ì/
+I
+java:S1444",Make this "public static fnames" field final(´Ş¿·8‰í„®Ì/
+o
+java:S1104"RMake fnames a static final constant or non-public and provide accessors if needed.(´Ş¿·8‰í„®Ì/
+N
+java:S1444",Make this "public static mnames" field final(Çàœ„ÿÿÿÿÿ8øç†®Ì/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8›ÏÕ­Ì/
+X
+java:S2696+"6Make the enclosing method "static" or remove this set.(‚ä¦‚ıÿÿÿÿ8×›ˆ®Ì/
+t
+java:S1104"RMake mnames a static final constant or non-public and provide accessors if needed.(Çàœ„ÿÿÿÿÿ8øç†®Ì/
+N
+java:S1444",Make this "public static snames" field final(ğ®´Ÿøÿÿÿÿ8ˆ‚‡®Ì/

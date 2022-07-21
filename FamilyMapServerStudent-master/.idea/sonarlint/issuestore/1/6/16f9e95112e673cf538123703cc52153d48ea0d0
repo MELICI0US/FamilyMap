@@ -1,0 +1,18 @@
+
+]
+java:S11928"GDefine a constant instead of duplicating this literal "gender" 3 times.(τ«λυ
+_
+java:S11928"IDefine a constant instead of duplicating this literal "personID" 3 times.(τ«λυ
+_
+java:S11928"IDefine a constant instead of duplicating this literal "lastName" 3 times.(τ«λυ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Δ™ήϊÿÿÿÿ
+\
+java:S11928"FDefine a constant instead of duplicating this literal "email" 3 times.(τ«λυ
+_
+java:S11928"IDefine a constant instead of duplicating this literal "password" 3 times.(τ«λυ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(λ³ό΄
+_
+java:S11928"IDefine a constant instead of duplicating this literal "username" 3 times.(τ«λυ
+`
+java:S11928"JDefine a constant instead of duplicating this literal "firstName" 3 times.(τ«λυ

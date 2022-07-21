@@ -1,0 +1,16 @@
+
+]
+java:S1128";Remove this unused import 'com.sun.net.httpserver.Headers'.(¬„úïùÿÿÿÿ8Á»ÆÜÌ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Óº£‰ıÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'com.sun.net.httpserver.HttpHandler'.(Ãœ²«
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¼Ë×Ãıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ
+M
+java:S1128
+"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†æÔ…ùÿÿÿÿ
